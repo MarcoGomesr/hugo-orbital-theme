@@ -1,0 +1,19 @@
+baseURL : "http://example.org/"
+languageCode : en-us
+title : Sodium
+theme : orbital
+
+taxonomies:
+  category: categories
+  tag: tags
+
+params:
+  social:
+    facebook: uicardio
+    instagram: uicardio
+    twitter: uicardio
+
+  scripts:
+    googleanalytics: 
+    disqus: 
+    
