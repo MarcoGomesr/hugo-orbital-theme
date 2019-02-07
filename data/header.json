@@ -1,5 +1,5 @@
 {
-	"brand" : "Sodium Theme",
+	"brand" : "Orbital Theme",
 	"logo" : "logo.png",
 	"links" : [
 	  {
@@ -7,11 +7,11 @@
 		"href" : ""
 	  },
 	  {
-		"title" : "Blog",
-		"href" : "blog"
+		"title" : "Film",
+		"href" : "film"
 	  },
 	  {
-		"title" : "Work",
+		"title" : "Cast",
 		"href" : "work"
 	  },
 	  {

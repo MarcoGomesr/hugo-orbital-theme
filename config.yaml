@@ -1,19 +1,18 @@
-baseURL : "http://example.org/"
+baseURL : "http://london.org/"
 languageCode : en-us
-title : Sodium
+title : Orbital
 theme : orbital
 
-taxonomies:
-  category: categories
-  tag: tags
 
 params:
   social:
-    facebook: uicardio
-    instagram: uicardio
-    twitter: uicardio
+    facebook: test
+    instagram: test
+    twitter: test
 
   scripts:
     googleanalytics: 
     disqus: 
     
+permalinks:
+  posts: /:title/

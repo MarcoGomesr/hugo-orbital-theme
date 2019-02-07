@@ -1,8 +1,10 @@
  {
 	"components" : [
-		"cover",
-		"features",		
-		"pricing",
-		"team"
+		"description",
+		"premiere",
+		"wallpaper",
+		"trivia",
+		"trailer",
+		"cast"
 	]
 }
