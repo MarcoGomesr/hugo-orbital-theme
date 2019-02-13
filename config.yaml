@@ -16,3 +16,9 @@ params:
     
 permalinks:
   posts: /:title/
+  players: /:section/:title/
+
+outputs: 
+  page    : json # A player
+  section : json # All players
+  home    : json # Everything
