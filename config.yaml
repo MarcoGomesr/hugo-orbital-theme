@@ -1,24 +1,20 @@
-baseURL : "http://london.org/"
-languageCode : en-us
-title : Orbital
-theme : orbital
-
-
+---
+baseURL: http://london.org/
+languageCode: en-us
+title: Orbital
+theme: orbital
 params:
   social:
     facebook: test
     instagram: test
     twitter: test
-
   scripts:
     googleanalytics: 
     disqus: 
-    
 permalinks:
-  posts: /:title/
-  players: /:section/:title/
-
-outputs: 
-  page    : json # A player
-  section : json # All players
-  home    : json # Everything
+  posts: "/:title/"
+  players: "/:section/:title/"
+outputs:
+  page: json
+  section: json
+  home: json
