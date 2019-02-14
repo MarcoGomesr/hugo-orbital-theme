@@ -15,3 +15,9 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: datetime
+  name: premire_date
+  label: premire date
+- type: tag_list
+  name: category
+  label: category
